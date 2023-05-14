@@ -1,2 +1,2 @@
-# iris_classification
+# Iris Classification
 An Iris Classification Model
